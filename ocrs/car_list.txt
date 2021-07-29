@@ -1,0 +1,14 @@
+c1 Audi A5 AU123 10 45 300 OUT
+c2 Ford Fiest BB567 10 45 300 OUT
+c3 Toyota Prius TY890 7 20 130 
+c5 Renault Clio EE5456 7 20 120 OUT
+v1 Mini 5-door TC5574 8 35 200
+v2 Citroen Berlingo AE425 5 45 250
+v3 Peugeot Partner PC756 5 50 320
+v4 Citroen Berlingo HGA5020 5 45 250
+cv1 Mazda Bongo PD144 12 50 340
+cv2 Volkswagen Classic VD965 10 50 320
+cv3 Hymer Campervan PC123 11 50 320
+cv4 Ford Transit VG111 15 50 320
+EL1 Nissan Leaf le122 5 8 20 130
+p0 toyota prius 12345 5 10 20 30

@@ -1,0 +1,9 @@
+tina car:c1 Audi A5 duration:1day method:cash paid:RM50 fee:45 RETURNED
+cj car:c3 Audi A5 duration:1day method:cash paid:RM50 fee:45 RETURNED RETURNED
+tina car:a1 Audi A5 duration:1day method:cash paid:RM50 fee:45 RETURNED
+tina car:c2 Audi A5 duration:1day method:cash paid:RM50 fee:45 RETURNED
+tina car:c2 Ford Fiest duration:3day method:cash paid:$135 fee:$135 RETURNED
+tina car:c3 Toyota Prius duration:3day method:card card-info:1234567 1234567 fee:$60 RETURNED
+tina car:c5 Renault Clio method:card card-info:tina 1234567 fee:$120 duration:1week 
+tina car:c1 Audi A5 duration:3day method:cash paid:$135 fee:$135
+tina car:c2 Ford Fiest method:cash paid:$300 fee:$300 duration:1week 
